@@ -1,5 +1,23 @@
+#header {
+    background-color: #2ECCFA ;
+    color :white;
+    text-align: center;
+}
+
+body {
+    background-color: #FF0040 ;
+}
+
 #container {
-    background-color: blue ;
-
-
+    background-color: #D358F7 ;
+    margin-left: auto ;
+    margin-right: auto;
+}
+#main {
+    background-color: #FFFF00 ;
+    padding: 10px ;
+    float: right;
+}
+#Nav {
+    float: left;
 }
