@@ -36,18 +36,8 @@ body {
 #main {
     background-color: #DCD0C0;
     float: right;
-    width: 7800px;
+    width: 600px;
     text-align: center;
-    border-style: solid;
-    border-width: medium;
-    border-color: #C0B283;
-
-}
-#Nav {
-    width: 200px;
-    float: left;
-
-    background-color: #DCD0C0 ;
     border-style: solid;
     border-width: medium;
     border-color: #C0B283;
@@ -55,6 +45,16 @@ body {
 }
 #empty {
     clear: both;
+}
+#Nav {
+    width: 160px;
+    float: left;
+
+    background-color: #DCD0C0 ;
+    border-style: solid;
+    border-width: medium;
+    border-color: #C0B283;
+
 }
 #footer {
     clear: both;
