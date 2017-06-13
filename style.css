@@ -36,18 +36,15 @@ body {
 #main {
     background-color: #DCD0C0;
     float: right;
-    width: 600px;
+    width: 7800px;
     text-align: center;
     border-style: solid;
     border-width: medium;
     border-color: #C0B283;
 
 }
-#empty {
-    clear: both;
-}
 #Nav {
-    width: 160px;
+    width: 200px;
     float: left;
 
     background-color: #DCD0C0 ;
@@ -55,6 +52,9 @@ body {
     border-width: medium;
     border-color: #C0B283;
 
+}
+#empty {
+    clear: both;
 }
 #footer {
     clear: both;
