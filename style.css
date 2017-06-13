@@ -1,23 +1,32 @@
+/* Color scheme */
+/* Pale Gold: #C0B283 */
+/* SILK : #DCD0C0 */
+/* PAPER :#F4F4F4 */
+/* CHARCOAL : #373737 */
+
 #header {
-    background-color: #2ECCFA ;
+    background-color: #DCD0C0 ;
     color :white;
     text-align: center;
+
+    border-style: solid;
+    border-width: medium;
+    border-color: #C0B283;
 }
 
 body {
-    background-color: #FF0040 ;
+    background-color: #F4F4F4 ;
 }
 
 #container {
-    background-color: #D358F7 ;
+    background-color: #1b1d1c ;
     margin-left: auto ;
     margin-right: auto;
 }
 #main {
     background-color: #FFFF00 ;
     padding: 10px ;
-    float: right;
 }
 #Nav {
-    float: left;
+    padding: :10px ;
 }
