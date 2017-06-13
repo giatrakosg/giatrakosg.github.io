@@ -23,9 +23,17 @@ body {
     margin-left: auto ;
     margin-right: auto;
 }
+#content {
+        background-color: #DCD0C0 ;
+        padding: 10px ;
+
+        border-style: solid;
+        border-width: small;
+        border-color: #C0B283;
+
+}
 #main {
-    background-color: #FFFF00 ;
-    padding: 10px ;
+    background-color: #DCD0C0 ;
 }
 #Nav {
     padding: :10px ;
