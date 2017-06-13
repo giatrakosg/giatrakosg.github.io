@@ -5,13 +5,13 @@
 /* CHARCOAL : #373737 */
 
 #header {
-    background-color: #DCD0C0 ;
+    background-color: #C0B283 ;
     color :white;
     text-align: center;
 
     border-style: solid;
     border-width: medium;
-    border-color: #C0B283;
+    border-color: #DCD0C0;
 }
 
 body {
@@ -29,4 +29,13 @@ body {
 }
 #Nav {
     padding: :10px ;
+}
+#footer {
+    background-color: #C0B283 ;
+    color :white;
+    text-align: left;
+
+    border-style: solid;
+    border-width: small;
+    border-color: #DCD0C0;
 }
